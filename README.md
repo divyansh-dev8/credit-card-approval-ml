@@ -60,7 +60,7 @@ Probability score
 Downloadable official decision report
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/divyansh-dev8/credit-card-approval-ml.git
+git  https://github.com/divyansh-dev8/credit-card-approval-ml.git
 cd credit-card-approval-ml
 2️⃣ Create virtual environment (optional)
 python -m venv venv
@@ -74,7 +74,7 @@ This application is deployed using Streamlit Cloud.
 👉 (Add your live URL here once deployed)
 Exampe
 
-https://credit-card-approval-ml.streamlit.app
+https://credit-card-approval-ml-dfjcl9mgtdvxuzrjz637fv.streamlit.app/
 📊 Sample Output
 Decision: APPROVED / REJECTED
 Approval Probability: e.g. 94.03%
